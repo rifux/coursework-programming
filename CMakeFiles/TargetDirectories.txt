@@ -1,0 +1,3 @@
+/home/neurosan/MAI/2 semester/Programming&alg/CourseWork_1/CMakeFiles/bin.dir
+/home/neurosan/MAI/2 semester/Programming&alg/CourseWork_1/CMakeFiles/edit_cache.dir
+/home/neurosan/MAI/2 semester/Programming&alg/CourseWork_1/CMakeFiles/rebuild_cache.dir
